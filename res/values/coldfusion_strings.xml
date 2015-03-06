@@ -39,4 +39,7 @@
     <string name="coldfusion_date">ColdFusion release date</string>
     <string name="coldfusion_date_default">2015-01-01-0000</string>
 
+    <!-- BitSyko Layers -->
+    <string name="bitsyko_layers">Layers</string>
+
 </resources>
