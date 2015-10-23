@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:title="@string/coldfusion_settings_title" >
+
+    <PreferenceScreen
+        android:key="power_menu_general_category"
+        android:fragment="com.android.settings.coldfusion.PowerMenuActions"
+        android:title="@string/power_menu_title" />
+</PreferenceCategory>
+</PreferenceScreen>
