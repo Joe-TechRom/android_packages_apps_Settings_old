@@ -7,5 +7,9 @@
         android:key="power_menu_general_category"
         android:fragment="com.android.settings.coldfusion.PowerMenuActions"
         android:title="@string/power_menu_title" />
+
+   <PreferenceCategory
+        android:key="category_coldfusion_configuration"
+        android:title="@string/coldfusion_menu_configuration" >
 </PreferenceCategory>
 </PreferenceScreen>
