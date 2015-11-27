@@ -17,7 +17,7 @@
 
      <!-- Cold Fusion Configuration -->
     <string name="header_category_coldfusion">Configuration</string>
-    <string name="chroma_settings_title">Cold Fusion</string>
+    <string name="coldfusion_settings_title">Cold Fusion</string>
 
     <!-- Device Info Settings -->
     <!-- About Cold Fusion -->
